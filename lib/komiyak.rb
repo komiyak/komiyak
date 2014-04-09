@@ -6,6 +6,7 @@ module Komiyak
   
   def say
     puts "komiyak !"
+    puts "komiyak !!"
   end
   
 end
