@@ -5,8 +5,8 @@ module Komiyak
   module_function
   
   def say
-    p "komiyak !"
-    p "komiyak !!"
+    puts "komiyak !"
+    puts "komiyak !!"
   end
   
 end
